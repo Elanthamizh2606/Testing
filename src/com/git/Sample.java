@@ -22,6 +22,13 @@ public class Sample {
 	private void meth6() {
 		System.out.println("6");
 	}
-	
+	private void meth7() {
+		// TODO Auto-generated method stub
+
+	}
+	private void meth8() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
