@@ -22,6 +22,13 @@ public class Sample {
 	private void meth6() {
 		System.out.println("6");
 	}
-	
+	private void meth15()
+	{
+		System.out.println("15");
+	}
+	private void meth16()
+	{
+		System.out.println("16");
+	}
 
 }
