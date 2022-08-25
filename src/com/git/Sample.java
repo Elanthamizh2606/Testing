@@ -16,12 +16,15 @@ public class Sample {
 	private void meth4() {
 		System.out.println("4");
 	}
+
 	private void meth5() {
 		System.out.println("5");
 	}
+
 	private void meth6() {
 		System.out.println("6");
 	}
+
 	private void meth7() {
 		// TODO Auto-generated method stub
 
@@ -40,4 +43,11 @@ public class Sample {
 		System.out.println("10");
 	}
 
+	private void meth13() {
+		System.out.println("13");
+	}
+
+	private void meth14() {
+		System.out.println("14");
+	}
 }
